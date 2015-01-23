@@ -1,0 +1,9 @@
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Entities\bin\Debug\sitemonitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Entities\bin\Debug\sitemonitoreo.Entities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Entities\obj\Release\sitemonitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Entities\obj\Release\sitemonitoreo.Entities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Entities\obj\Release\sitemonitoreo.Entities.csprojResolveAssemblyReference.cache
+E:\SD\sitemonitoreo-master\sitemonitoreo.Entities\bin\Debug\sitemonitoreo.Entities.dll
+E:\SD\sitemonitoreo-master\sitemonitoreo.Entities\bin\Debug\sitemonitoreo.Entities.pdb
+E:\SD\sitemonitoreo-master\sitemonitoreo.Entities\obj\Release\sitemonitoreo.Entities.dll
+E:\SD\sitemonitoreo-master\sitemonitoreo.Entities\obj\Release\sitemonitoreo.Entities.pdb

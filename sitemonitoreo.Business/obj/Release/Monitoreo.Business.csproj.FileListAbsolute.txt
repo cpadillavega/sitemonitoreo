@@ -1,0 +1,11 @@
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\bin\Release\Monitoreo.Business.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\bin\Release\Monitoreo.Business.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\bin\Debug\Monitoreo.Business.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\bin\Debug\Monitoreo.Business.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\bin\Debug\Monitoreo.DataEntities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\bin\Debug\Monitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\bin\Debug\Monitoreo.DataEntities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\bin\Debug\Monitoreo.Entities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\obj\Release\Monitoreo.Business.csprojResolveAssemblyReference.cache
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\obj\Release\Monitoreo.Business.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Business\obj\Release\Monitoreo.Business.pdb

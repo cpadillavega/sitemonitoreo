@@ -1,0 +1,12 @@
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\bin\Release\Monitoreo.DataEntities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\bin\Release\Monitoreo.DataEntities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\bin\Release\Monitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\bin\Release\Monitoreo.Entities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\bin\Debug\Monitoreo.DataEntities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\bin\Debug\Monitoreo.DataEntities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\bin\Debug\Monitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\bin\Debug\Monitoreo.Entities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\obj\Release\Monitoreo.DataEntities.csprojResolveAssemblyReference.cache
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\obj\Release\Monitoreo.DataEntities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\obj\Release\Monitoreo.DataEntities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.DataEntities\obj\Release\Monitoreo.DataEntities.csprojFakesResolveAssemblyReference.cache

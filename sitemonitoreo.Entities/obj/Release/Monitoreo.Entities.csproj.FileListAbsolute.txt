@@ -1,0 +1,6 @@
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Entities\bin\Release\Monitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Entities\bin\Release\Monitoreo.Entities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Entities\bin\Debug\Monitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Entities\bin\Debug\Monitoreo.Entities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Entities\obj\Release\Monitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\Monitoreo\Monitoreo.Entities\obj\Release\Monitoreo.Entities.pdb

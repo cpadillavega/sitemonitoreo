@@ -1,0 +1,18 @@
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\bin\Debug\sitemonitoreo.Business.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\bin\Debug\sitemonitoreo.Business.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\obj\Release\sitemonitoreo.Business.csprojResolveAssemblyReference.cache
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\obj\Release\sitemonitoreo.Business.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\obj\Release\sitemonitoreo.Business.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\bin\Debug\sitemonitoreo.DataEntities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\bin\Debug\sitemonitoreo.Entities.dll
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\bin\Debug\sitemonitoreo.DataEntities.pdb
+E:\UPC\SISTEMAS DISTRIBUIDOS\sitemonitoreo\sitemonitoreo.Business\bin\Debug\sitemonitoreo.Entities.pdb
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\bin\Debug\sitemonitoreo.Business.dll
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\bin\Debug\sitemonitoreo.Business.pdb
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\bin\Debug\sitemonitoreo.DataEntities.dll
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\bin\Debug\sitemonitoreo.Entities.dll
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\bin\Debug\sitemonitoreo.DataEntities.pdb
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\bin\Debug\sitemonitoreo.Entities.pdb
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\obj\Release\sitemonitoreo.Business.csprojResolveAssemblyReference.cache
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\obj\Release\sitemonitoreo.Business.dll
+E:\SD\sitemonitoreo-master\sitemonitoreo.Business\obj\Release\sitemonitoreo.Business.pdb

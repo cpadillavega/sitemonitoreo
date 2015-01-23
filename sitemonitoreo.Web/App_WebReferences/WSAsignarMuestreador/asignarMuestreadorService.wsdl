@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:sch="http://www.upc.edu.pe/asignarMuestreador/generated/beans" xmlns:tns="http://www.upc.edu.pe/asignarMuestreador/generated/beans" targetNamespace="http://www.upc.edu.pe/asignarMuestreador/generated/beans" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema xmlns="http://www.upc.edu.pe/asignarMuestreador/generated/beans" targetNamespace="http://www.upc.edu.pe/asignarMuestreador/generated/beans" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <xsd:element name="asignar-muestreador-request">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="locacionCodigo" type="xsd:string" />
+            <xsd:element name="locacionDescripcion" type="xsd:string" />
+            <xsd:element name="emailDestino" type="xsd:string" />
+            <xsd:element name="nombreMuestreador" type="xsd:string" />
+            <xsd:element name="fechaMuestreo" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="asignar-muestreador-response">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="codigoRespuesta" type="xsd:string" />
+            <xsd:element name="descripcionRespuesta" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="asignar-muestreador-response">
+    <wsdl:part name="asignar-muestreador-response" element="tns:asignar-muestreador-response" />
+  </wsdl:message>
+  <wsdl:message name="asignar-muestreador-request">
+    <wsdl:part name="asignar-muestreador-request" element="tns:asignar-muestreador-request" />
+  </wsdl:message>
+  <wsdl:portType name="AsignarMuestreador">
+    <wsdl:operation name="asignar-muestreador">
+      <wsdl:input name="asignar-muestreador-request" message="tns:asignar-muestreador-request" />
+      <wsdl:output name="asignar-muestreador-response" message="tns:asignar-muestreador-response" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="AsignarMuestreadorSoap11" type="tns:AsignarMuestreador">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="asignar-muestreador">
+      <soap:operation soapAction="" />
+      <wsdl:input name="asignar-muestreador-request">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="asignar-muestreador-response">
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AsignarMuestreadorService">
+    <wsdl:port name="AsignarMuestreadorSoap11" binding="tns:AsignarMuestreadorSoap11">
+      <soap:address location="/asignarMuestreadorService/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
